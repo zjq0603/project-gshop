@@ -1,5 +1,5 @@
 <template>
-  <div id="app">app组件</div>
+  <div id="app">app-组件</div>
 </template>
 
 <script>
